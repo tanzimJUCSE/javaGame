@@ -10,5 +10,5 @@ Libraries that have been used so far:
 - webbrowser(default)
 - os(default)
 
-Here i've illustarted the basic hype of above mentioned libraries with a simple if else logic
+Here i've illustrated the basic hype of above mentioned libraries with a simple if else logic
 One can easily modify it and can turn the simple logic to vast AI logic.  
